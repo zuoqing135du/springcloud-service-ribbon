@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * 启动类
+ * 启动类1111
  */
 @SpringBootApplication
 @EnableDiscoveryClient
